@@ -29,7 +29,7 @@ In order for code to run smoothly, you may need to purchase a certain amount of 
 
 This project contains the following files and folders:
 
-- **Loranz.py**: This is a Python file that is used for train and validate the QLSTM model.
+- **Lorenz.py**: This is a Python file that is used for train and validate the QLSTM model.
 
 - **model.py**: This is another Python file that is used for QLSTM model building.
 
