@@ -29,12 +29,14 @@ In order for code to run smoothly, you may need to purchase a certain amount of 
 
 This project contains the following files and folders:
 
-- **Loranz.py**: This is a Python file that is used for... (add a detailed description of Loranz.py and its role in your project here)
+- **Loranz.py**: This is a Python file that is used for train and validate the QLSTM model.
 
-- **model.py**: This is another Python file that is used for... (add a detailed description of model.py and its role in your project here)
+- **model.py**: This is another Python file that is used for QLSTM model building.
 
-- **results**: This is a folder that contains... (add a detailed description of the results folder and its role in your project here)
+- **li.py** and **li_separate.py**: These two python files are for computing Lyapunov exponents.
 
-Please ensure you understand the purpose of these files and folders to properly use this project.
+- **results**: This is a folder that contains the results of the experiment are mentioned in the paper
+
+
 
 
